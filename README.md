@@ -1,1 +1,1 @@
-# -AJCAI_2025-Augmentation-and-Transformation-for-Nighttime-Cloud-Segmentation
+# [AJCAI_2025] Augmentation and Transformation for Nighttime Cloud Segmentation in All-Sky Camera Images
