@@ -21,11 +21,11 @@ servation systems. This work aims to enhance the reliability and value of au-
 tonomous observatory operations under diverse nighttime environments.
 
 🚀 Features
-Three Segmentation Models: Use to be SOTA method in Cloud Segmentation task
+- **Three Segmentation Models**: Use to be SOTA method in Cloud Segmentation task
 
-Augmentation and Transformation Pipeline: Each Technique is implemented in Augmentation Implementations.
+- **Augmentation and Transformation Pipeline**: Each Technique is implemented in Augmentation Implementations.
 
-Day-to-Night Style Transfer: Adapted from Viraj Kadam's Cityscapes day-to-night translation
+- **Day-to-Night Style Transfer**: Adapted from Viraj Kadam's Cityscapes day-to-night translation
 
-Reproducible Experiments: Complete code for paper results
+- **Reproducible Experiments**: Complete code for paper results
 
