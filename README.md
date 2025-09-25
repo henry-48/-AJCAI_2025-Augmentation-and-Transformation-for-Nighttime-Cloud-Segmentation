@@ -3,6 +3,7 @@
 Official implementation for the AJCAI 2025 paper "Augmentation and Transformation for Nighttime Cloud Segmentation". This research explores advanced data augmentation techniques to improve cloud segmentation performance in nighttime all-sky camera imagery.
 
 📖 Abstract
+
 For ground-based optical telescopes, automated planning and control
 systems play a vital role in ensuring efficient acquisition of scientific data. These
 systems rely on All-Sky Cameras (ASC) to capture real-time sky conditions, in-
