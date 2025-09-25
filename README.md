@@ -20,8 +20,12 @@ flare), thereby providing a training and evaluation framework for ASC-based ob-
 servation systems. This work aims to enhance the reliability and value of au-
 tonomous observatory operations under diverse nighttime environments.
 
-In this repoitory, we has list three model used to verificate the useof the augmentation and transformation pipeline. Each of them are adopted for the cloud segmentation task.
+🚀 Features
+Three Segmentation Models: Use to be SOTA method in Cloud Segmentation task
 
-The detail of the implementation of each augmentaiton technique is list in Augmentation Implementations.
+Augmentation and Transformation Pipeline: Each Technique is implemented in Augmentation Implementations.
 
-The day-to-night style transfer is created by viraj kadam from kaggle on city day-to-night task. I adopted it to the cloud day-to-night.
+Day-to-Night Style Transfer: Adapted from Viraj Kadam's Cityscapes day-to-night translation
+
+Reproducible Experiments: Complete code for paper results
+
